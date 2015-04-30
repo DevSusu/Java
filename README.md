@@ -1,6 +1,6 @@
 룰루반 장터합니다
 ====
-```
+```java
 public class Lullu {
 
   public menu[] anju = [
